@@ -1,2 +1,2 @@
-👨‍💻 MERN Web Developer
+👨‍💻 MERN Web Developer <br>
 💼 Open To Job Opportunities
